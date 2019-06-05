@@ -4,5 +4,5 @@
 - [Emoji](https://github.com/lofty77/Tools/blob/master/docs/Markdown_emoji.md)
 
 ### Python
-- [Xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
+- [xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
 
