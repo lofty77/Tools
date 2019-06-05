@@ -5,6 +5,7 @@
 
 ### Python
 - [xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
+- [nbviewer](https://github.com/lofty77/Tools/blob/master/docs/nbviewer.md)
 
 
 ### C/C++
