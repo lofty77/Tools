@@ -9,5 +9,6 @@
 
 ### C/C++
 - [Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
+- [CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 
 
