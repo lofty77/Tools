@@ -6,8 +6,9 @@
 ### Python
 - [xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
 - [nbviewer](https://github.com/lofty77/Tools/blob/master/docs/nbviewer.md)
-- [filter()](https://github.com/lofty77/Tools/blob/master/docs/python_filter().md)
 - [lambda](https://github.com/lofty77/Tools/blob/master/docs/python_lambda.md)
+- [filter()](https://github.com/lofty77/Tools/blob/master/docs/python_filter().md)
+- [map()](https://github.com/lofty77/Tools/blob/master/docs/python_map().md)
 
 
 ### C/C++
