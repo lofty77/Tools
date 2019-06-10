@@ -11,7 +11,7 @@
 - [map()](https://github.com/lofty77/Tools/blob/master/docs/python_map().md)
 - [reduce()](https://github.com/lofty77/Tools/blob/master/docs/python_reduce().md)
 - [count](https://github.com/lofty77/Tools/blob/master/docs/python_count.md)
-
+- [code_style](https://github.com/lofty77/Tools/blob/master/docs/python_code_style.md)
 
 ### C/C++
 - [Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
