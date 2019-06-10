@@ -10,6 +10,7 @@
 - [filter()](https://github.com/lofty77/Tools/blob/master/docs/python_filter().md)
 - [map()](https://github.com/lofty77/Tools/blob/master/docs/python_map().md)
 - [reduce()](https://github.com/lofty77/Tools/blob/master/docs/python_reduce().md)
+- [Count](https://github.com/lofty77/Tools/blob/master/docs/python_count.md)
 
 
 ### C/C++
