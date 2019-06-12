@@ -18,4 +18,5 @@
 - [CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 - [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
 
-
+### Git
+- [Reset](https://github.com/lofty77/Tools/blob/master/docs/git_reset.md)
