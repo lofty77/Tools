@@ -17,7 +17,7 @@ index 524cb55..c200906 100644
 ```
 
 
-#### git diff HEAD file_name
+#### git diff HEAD -- file_name
 ```git
 liang.liang@ubuntu:~/code/OnlyForTest$ git diff HEAD a1.md 
 diff --git a/a1.md b/a1.md
