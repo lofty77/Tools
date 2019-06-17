@@ -21,3 +21,6 @@
 ### Git
 - [Reset](https://github.com/lofty77/Tools/blob/master/docs/git_reset.md)
 - [Diff](https://github.com/lofty77/Tools/blob/master/docs/git_diff.md)
+
+### Excel
+- [excel skill](https://github.com/lofty77/Tools/blob/master/docs/excel_note.md)
