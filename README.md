@@ -24,3 +24,6 @@
 
 ### Excel
 - [excel skill](https://github.com/lofty77/Tools/blob/master/docs/excel_note.md)
+
+### Debug
+- [PySnooper](https://github.com/cool-RR/PySnooper/blob/master/README.md)
