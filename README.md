@@ -30,4 +30,4 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper/blob/master/README.md)
 
 ### Tools
-- [Selenium]()
+- [Selenium](https://github.com/lofty77/Tools/blob/master/docs/selenium.md)
