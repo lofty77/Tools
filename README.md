@@ -15,8 +15,6 @@
 - [decorator](https://github.com/lofty77/Tools/blob/master/docs/python_decorator.md)
 
 ### C/C++
-- [Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
-- [CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 - [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
 
 ### Git
@@ -27,7 +25,9 @@
 - [excel skill](https://github.com/lofty77/Tools/blob/master/docs/excel_note.md)
 
 ### Debug
-- [PySnooper](https://github.com/cool-RR/PySnooper/blob/master/README.md)
+- [[Python]PySnooper](https://github.com/cool-RR/PySnooper/blob/master/README.md)
+- [[C/C++]Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
+- [[C/C++]CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 
 ### Tools
 - [Selenium](https://github.com/lofty77/Tools/blob/master/docs/selenium.md)
