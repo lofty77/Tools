@@ -31,3 +31,4 @@
 
 ### Tools
 - [Selenium](https://github.com/lofty77/Tools/blob/master/docs/selenium.md)
+- [pythontutor](http://www.pythontutor.com/)
