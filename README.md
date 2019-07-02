@@ -13,6 +13,7 @@
 - [count](https://github.com/lofty77/Tools/blob/master/docs/python_count.md)
 - [code_style](https://github.com/lofty77/Tools/blob/master/docs/python_code_style.md)
 - [decorator](https://github.com/lofty77/Tools/blob/master/docs/python_decorator.md)
+- [timeit](https://github.com/lofty77/Tools/blob/master/docs/python_timeit.md)
 
 ### C/C++
 - [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
