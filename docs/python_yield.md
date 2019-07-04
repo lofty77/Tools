@@ -7,6 +7,35 @@
 ### 最佳用途
 - 使用生成器最好的地方就是迭代一个巨大的数据集合时对每个元素进行及时的操作和处理（节约内存，提升速度）
 
+### 生成器的原理
+- 生成斐波那契數列
+```python
+class Fab(object): 
+ 
+    def __init__(self, max): 
+        self.max = max 
+        self.n, self.a, self.b = 0, 0, 1 
+ 
+    def __iter__(self): 
+        return self 
+ 
+    def __next__(self): 
+        if self.n < self.max: 
+            r = self.b 
+            self.a, self.b = self.b, self.a + self.b 
+            self.n = self.n + 1 
+            return r 
+        raise StopIteration()
+
+for n in Fab(5): 
+    print(n)
+#1
+#1
+#2
+#3
+#5
+```
+
 ### 生成器实例
 - 生成斐波那契數列
 ```python
