@@ -18,6 +18,7 @@
 - [timeit](https://github.com/lofty77/Tools/blob/master/docs/python_timeit.md)
 - [生成器](https://github.com/lofty77/Tools/blob/master/docs/python_yield.md)
 - [枚举类](https://github.com/lofty77/Tools/blob/master/docs/python_enum.md)
+- [Zip 函数](https://github.com/lofty77/Tools/blob/master/docs/python_zip.md)
 
 ### C/C++
 - [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
