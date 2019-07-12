@@ -26,6 +26,7 @@
 
 ### CMAKE
 - [单个源文件](https://github.com/lofty77/Tools/blob/master/docs/cmake_01.md)
+- [多个源文件,头文件，都放在一个文件下](https://github.com/lofty77/Tools/blob/master/docs/cmake_02.md)
 
 ### Git
 - [Reset](https://github.com/lofty77/Tools/blob/master/docs/git_reset.md)
