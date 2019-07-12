@@ -25,6 +25,7 @@
 - [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
 
 ### CMAKE
+- [单个源文件](https://github.com/lofty77/Tools/blob/master/docs/cmake_01.md)
 
 ### Git
 - [Reset](https://github.com/lofty77/Tools/blob/master/docs/git_reset.md)
