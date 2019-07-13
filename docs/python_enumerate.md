@@ -3,6 +3,9 @@ seasons = ['Spring', 'Summer', 'Fall', 'Winter']
 list(enumerate(seasons))
 # [(0, 'Spring'), (1, 'Summer'), (2, 'Fall'), (3, 'Winter')]
 
+dict(enumerate(seasons))
+# {0: 'Spring', 1: 'Summer', 2: 'Fall', 3: 'Winter'}
+
 for key,value in enumerate(seasons):
     print("key:{0},value:{1}".format(key,value))
 
