@@ -5,6 +5,7 @@
 
 ### Python
 - [python 惯例](https://github.com/lofty77/Tools/blob/master/docs/python_tradition.md)
+- [python编码规范](https://github.com/lofty77/Tools/blob/master/docs/python编码规范.md)
 - [python document](https://docs.python.org/zh-cn/3/contents.html)
 - [xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
 - [nbviewer](https://github.com/lofty77/Tools/blob/master/docs/nbviewer.md)
@@ -13,7 +14,6 @@
 - [map()](https://github.com/lofty77/Tools/blob/master/docs/python_map().md)
 - [reduce()](https://github.com/lofty77/Tools/blob/master/docs/python_reduce().md)
 - [count](https://github.com/lofty77/Tools/blob/master/docs/python_count.md)
-- [code_style](https://github.com/lofty77/Tools/blob/master/docs/python_code_style.md)
 - [decorator](https://github.com/lofty77/Tools/blob/master/docs/python_decorator.md)
 - [timeit](https://github.com/lofty77/Tools/blob/master/docs/python_timeit.md)
 - [生成器](https://github.com/lofty77/Tools/blob/master/docs/python_yield.md)
