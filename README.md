@@ -20,6 +20,8 @@
 - [枚举类](https://github.com/lofty77/Tools/blob/master/docs/python_enum.md)
 - [zip()](https://github.com/lofty77/Tools/blob/master/docs/python_zip.md)
 - [enumerate()](https://github.com/lofty77/Tools/blob/master/docs/python_enumerate.md)
+- [type hint](https://github.com/lofty77/Tools/blob/master/docs/python_type_hint.md)
+
 
 ### C/C++
 - [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
