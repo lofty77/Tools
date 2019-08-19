@@ -1,3 +1,6 @@
+### Reference
+[link](https://docs.python.org/3.5/library/typing.html?highlight=type%20hint#module-typing)
+
 ### Union
 Union[X, Y] means either X or Y.  
 To define a union, use e.g. Union[int, str]. Details:  
