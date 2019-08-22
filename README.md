@@ -22,6 +22,7 @@
 - [enumerate()](https://github.com/lofty77/Tools/blob/master/docs/python_enumerate.md)
 - [type hint](https://github.com/lofty77/Tools/blob/master/docs/python_type_hint.md)
 - [@property/@score.setter](https://github.com/lofty77/Tools/blob/master/docs/python_%40property.md)
+- [静态方法/类方法](https://github.com/lofty77/Tools/blob/master/docs/python_staticmethod_classmethod.md)
 
 
 ### C/C++
