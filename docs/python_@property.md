@@ -1,7 +1,7 @@
 @property 使用方法
 
->@property, 把一个getter方法变成读属性.  
-@score.setter，负责把一个setter方法变成写属性.
+>@property, 把一个getter方法变成**读**属性.  
+@score.setter，负责把一个setter方法变成**写**属性.
 ```python
 class Student(object):
     def __init__(self):
