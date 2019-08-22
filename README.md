@@ -21,6 +21,7 @@
 - [zip()](https://github.com/lofty77/Tools/blob/master/docs/python_zip.md)
 - [enumerate()](https://github.com/lofty77/Tools/blob/master/docs/python_enumerate.md)
 - [type hint](https://github.com/lofty77/Tools/blob/master/docs/python_type_hint.md)
+- [@property/@score.setter](https://github.com/lofty77/Tools/blob/master/docs/python_%40property.md)
 
 
 ### C/C++
