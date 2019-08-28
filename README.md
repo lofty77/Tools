@@ -26,6 +26,7 @@
 - [抽象类](https://github.com/lofty77/Tools/blob/master/docs/python_abstract_class.md)
 - [文件和异常](https://github.com/lofty77/Tools/blob/master/docs/python_file_process.md)
 - [多进程](https://github.com/lofty77/Tools/blob/master/docs/python_multiprocess.md)
+- [GIL锁](https://github.com/lofty77/Tools/blob/master/docs/python_GIL.md)
 
 
 ### C/C++
