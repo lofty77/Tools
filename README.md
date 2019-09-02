@@ -16,7 +16,7 @@
 - [count](https://github.com/lofty77/Tools/blob/master/docs/python_count.md)
 - [decorator](https://github.com/lofty77/Tools/blob/master/docs/python_decorator.md)
 - [timeit](https://github.com/lofty77/Tools/blob/master/docs/python_timeit.md)
-- [生成器](https://github.com/lofty77/Tools/blob/master/docs/python_yield.md)
+- [yield 生成器](https://github.com/lofty77/Tools/blob/master/docs/python_yield.md)
 - [枚举类](https://github.com/lofty77/Tools/blob/master/docs/python_enum.md)
 - [zip()](https://github.com/lofty77/Tools/blob/master/docs/python_zip.md)
 - [enumerate()](https://github.com/lofty77/Tools/blob/master/docs/python_enumerate.md)
