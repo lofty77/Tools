@@ -6,7 +6,7 @@
 ### Python
 - [python 惯例](https://github.com/lofty77/Tools/blob/master/docs/python_tradition.md)
 - [python 编码规范](https://github.com/lofty77/Tools/blob/master/docs/python编码规范.md)
-- [python document](https://docs.python.org/zh-cn/3/contents.html)
+- [python 官方文档](https://docs.python.org/zh-cn/3/contents.html)
 - [xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
 - [nbviewer](https://github.com/lofty77/Tools/blob/master/docs/nbviewer.md)
 - [lambda](https://github.com/lofty77/Tools/blob/master/docs/python_lambda.md)
