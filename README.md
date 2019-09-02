@@ -28,7 +28,7 @@
 - [线程锁](https://github.com/lofty77/Tools/blob/master/docs/python_thread_lock.md)
 - [GIL锁](https://github.com/lofty77/Tools/blob/master/docs/python_GIL.md)
 - [yield 生成器](https://github.com/lofty77/Tools/blob/master/docs/python_yield.md)
-- [yield 协程](https://github.com/lofty77/Tools/blob/master/docs/python_coroutine.md)
+- [协程-同步IO](https://github.com/lofty77/Tools/blob/master/docs/python_coroutine.md)
 
 
 ### C/C++
