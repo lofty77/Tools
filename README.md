@@ -55,6 +55,7 @@
 ### Tools
 - [Selenium](https://github.com/lofty77/Tools/blob/master/docs/selenium.md)
 - [pythontutor](http://www.pythontutor.com/)
+- [Anaconda](https://github.com/lofty77/Tools/blob/master/docs/anaconda.md)
 
 ### Linux
 - [硬链接 软链接](https://github.com/lofty77/Tools/blob/master/docs/linux_hard_soft_link.md)
