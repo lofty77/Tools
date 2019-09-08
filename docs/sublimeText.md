@@ -1,11 +1,11 @@
-### package
+### 插件包
 * Predawn
 * Material Theme
 * BracketHightLighter
 * SideBarEnhancements
 * Anaconda
 
-### Tip
+### 提示
 * 分屏：command + option+2
 * 安装：command + shift+P ， install package
 
