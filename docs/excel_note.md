@@ -1,3 +1,8 @@
+### setting
+- 要开启错误校验
+file- option- formuals- enable background error checking ， 勾上
+- trim 有副作用，就是强制转格式
+
 ### Vlookup
 - 一定要加绝对索引! （Vlookup 中的第二个参数）
 :joy: 花了3个小时debug这个教训(快捷键 F4)
