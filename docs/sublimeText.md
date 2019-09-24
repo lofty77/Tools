@@ -4,6 +4,7 @@
 * BracketHightLighter
 * SideBarEnhancements
 * Anaconda
+* pylinter
 
 ### 提示
 * 分屏：command + option+2
