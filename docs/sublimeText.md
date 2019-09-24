@@ -7,7 +7,10 @@
 
 ### 提示
 * 分屏：command + option+2
-* 安装：command + shift+P ， install package
+* 安装：
+    * command + shift+P （macos)
+    * ctrl + shift+P (linux)
+    * install package
 
 ### Reference
 - [configuration](https://github.com/CoreyMSchafer/dotfiles/tree/master/settings)
