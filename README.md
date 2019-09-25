@@ -8,6 +8,7 @@
 - [python 惯例](https://github.com/lofty77/Tools/blob/master/docs/python_tradition.md)
 - [python 编码规范](https://github.com/lofty77/Tools/blob/master/docs/python编码规范.md)
 - [switch-case](https://github.com/lofty77/Tools/blob/master/docs/python_switch-case.md)
+- [copy/deepcopy](https://github.com/lofty77/Tools/blob/master/docs/python_copy_deepcopy.md)
 - [xlrd](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
 - [nbviewer](https://github.com/lofty77/Tools/blob/master/docs/nbviewer.md)
 - [lambda](https://github.com/lofty77/Tools/blob/master/docs/python_lambda.md)
