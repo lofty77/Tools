@@ -62,6 +62,7 @@
 - [Sublime Text](https://github.com/lofty77/Tools/blob/master/docs/sublimeText.md)
 
 ### Linux
+- [Linux 命令搜索](https://wangchujiang.com/linux-command/)
 - [硬链接 软链接](https://github.com/lofty77/Tools/blob/master/docs/linux_hard_soft_link.md)
 
 ### Learn
