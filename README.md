@@ -7,6 +7,7 @@
 - [python 官方文档](https://docs.python.org/zh-cn/3/contents.html)
 - [python 惯例](https://github.com/lofty77/Tools/blob/master/docs/python_tradition.md)
 - [python 编码规范](https://github.com/lofty77/Tools/blob/master/docs/python编码规范.md)
+- [python 模块结构和布局](https://github.com/lofty77/Tools/blob/master/docs/python_layout.md)
 - [switch-case](https://github.com/lofty77/Tools/blob/master/docs/python_switch-case.md)
 - [copy/deepcopy](https://github.com/lofty77/Tools/blob/master/docs/python_copy_deepcopy.md)
 - [用xlrd读Excel文件](https://github.com/lofty77/Tools/blob/master/docs/python_xlrd.md)
