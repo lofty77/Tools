@@ -8,6 +8,7 @@
 
 ### 提示
 * 分屏：command + option+2
+* 分屏： shift + alt +2 （linux)
 * 安装：
     * command + shift+P （macos)
     * ctrl + shift+P (linux)
