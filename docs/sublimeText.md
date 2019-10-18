@@ -13,5 +13,9 @@
     * ctrl + shift+P (linux)
     * install package
 
+### 其他
+* 函数定义：sublime 已经支持查看函数定义：鼠标放在函数上，就会出现函数说明，点击可以进入定义
+
+
 ### Reference
 - [configuration](https://github.com/CoreyMSchafer/dotfiles/tree/master/settings)
