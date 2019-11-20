@@ -73,3 +73,7 @@
 - [yml 文件语法](https://github.com/lofty77/Tools/blob/master/docs/YML.md)
 - [Travis CI](https://travis-ci.org/)
 
+### UnitTest
+- [pytest](https://docs.pytest.org/en/latest/assert.html)
+- [nose](https://nose.readthedocs.io/en/latest/testing_tools.html?highlight=assert_equal)
+
