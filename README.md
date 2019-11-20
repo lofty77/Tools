@@ -4,6 +4,7 @@
 - [Emoji](https://github.com/lofty77/Tools/blob/master/docs/Markdown_emoji.md)
 
 ### Python
+- [python code example](https://www.programcreek.com/python/)
 - [python 官方文档](https://docs.python.org/zh-cn/3/contents.html)
 - [python 惯例](https://github.com/lofty77/Tools/blob/master/docs/python_tradition.md)
 - [python 编码规范](https://github.com/lofty77/Tools/blob/master/docs/python编码规范.md)
