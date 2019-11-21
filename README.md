@@ -74,7 +74,12 @@
 - [yml 文件语法](https://github.com/lofty77/Tools/blob/master/docs/YML.md)
 - [Travis CI](https://travis-ci.org/)
 
+### Codecov
+- [codecov](https://codecov.io/)
+
 ### UnitTest
 - [pytest](https://docs.pytest.org/en/latest/assert.html)
+- [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html)
 - [nose](https://nose.readthedocs.io/en/latest/testing_tools.html?highlight=assert_equal)
+
 
