@@ -78,7 +78,7 @@
 - [codecov](https://codecov.io/)
 
 ### UnitTest
-- [pytest](https://docs.pytest.org/en/latest/assert.html)
+- [pytest](https://www.osgeo.cn/pytest/contents.html)
 - [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html)
 - [nose](https://nose.readthedocs.io/en/latest/testing_tools.html?highlight=assert_equal)
 
