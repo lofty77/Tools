@@ -62,6 +62,7 @@
 - [pythontutor](http://www.pythontutor.com/)
 - [Anaconda](https://github.com/lofty77/Tools/blob/master/docs/anaconda.md)
 - [Sublime Text](https://github.com/lofty77/Tools/blob/master/docs/sublimeText.md)
+- [python black](https://github.com/psf/black)
 
 ### Linux
 - [Linux 全集](https://github.com/jaywcjlove/linux-command)
