@@ -63,6 +63,7 @@
 - [Anaconda](https://github.com/lofty77/Tools/blob/master/docs/anaconda.md)
 - [Sublime Text](https://github.com/lofty77/Tools/blob/master/docs/sublimeText.md)
 - [python black 代码美化工具](https://github.com/psf/black)
+- [Google 编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
 ### Linux
 - [Linux 全集](https://github.com/jaywcjlove/linux-command)
