@@ -71,6 +71,7 @@
 - [Linux 环境变量](https://github.com/lofty77/Tools/blob/master/docs/linux_env.md)
 - [Linux 命令](https://github.com/lofty77/Tools/blob/master/docs/linux_command.md)
 - [Linux Shell](http://me.52fhy.com/shell-book/)
+- [Linux Shell check Tool](https://github.com/koalaman/shellcheck)
 
 ### Learn
 - [ModuleNotFoundError](https://github.com/lofty77/Tools/blob/master/docs/Error_ModuleNotFoundError.md)
