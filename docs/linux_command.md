@@ -56,5 +56,5 @@ liang.liang@ubuntu:~/code/test$
 
 
 ### Others
-不懂就在linux下 man command
+不懂就在linux下 man command  
 https://github.com/guodongxiaren/LinuxTool
