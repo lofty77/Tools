@@ -24,3 +24,7 @@ python: /usr/bin/python3.5 /usr/bin/python /usr/bin/python3.5m-config
 /usr/share/man/man1/python.1.gz
 
 ```
+
+
+### Others
+https://github.com/guodongxiaren/LinuxTool
