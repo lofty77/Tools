@@ -26,7 +26,7 @@ python: /usr/bin/python3.5 /usr/bin/python /usr/bin/python3.5m-config
 ```
 
 ### find
-常用查找文件的命令。  
+查找文件的命令。  
 #### 基本格式
     find 路径 -选项 参数 ...
 
@@ -42,6 +42,15 @@ liang.liang@ubuntu:~/code/test$
 
 ```
 
+### grep
+查找文件内容的命令
+```
+liang.liang@ubuntu:~/code/test$ ls
+f1  hello_world
+liang.liang@ubuntu:~/code/test$ grep -r "liang.liang@163" ./
+./f1:liang.liang@163
+liang.liang@ubuntu:~/code/test$ 
+```
 
 
 ### Others
