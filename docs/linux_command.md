@@ -45,7 +45,7 @@ liang.liang@ubuntu:~/code/test$
 ### grep
 查找文件内容的命令
 #### 基本格式
-    grep -选项 搜索关键字 路径
+    grep -选项 搜索关键字 文件
 ```
 liang.liang@ubuntu:~/code/test$ ls
 f1  hello_world
