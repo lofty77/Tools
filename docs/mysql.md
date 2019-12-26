@@ -10,7 +10,7 @@ sudo apt-get remove apparmor
 sudo apt-get install mysql-server mysql-common 
 ```
 
-登录MySQL测试，如下代码所示：
+登录MySQL server
 ```linux
 liang.liang@ubuntu:~$ mysql -uroot -p
 Enter password: 
@@ -28,4 +28,15 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 mysql> show databases
     -> 
+```
+查看mysql进程是否在运行
+```linux
+liang.liang@ubuntu:~$ service mysql status
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: en
+   Active: active (running) since 四 2019-12-26 06:07:37 PST; 28min ago
+ Main PID: 12533 (mysqld)
+   CGroup: /system.slice/mysql.service
+           └─12533 /usr/sbin/mysqld
+
 ```
