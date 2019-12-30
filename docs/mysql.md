@@ -40,3 +40,30 @@ liang.liang@ubuntu:~$ service mysql status
            └─12533 /usr/sbin/mysqld
 
 ```
+### 查看支持哪些数据库
+```sql
+mysql> show databases
+    -> ;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
+| test2              |
+| yiibaidb           |
++--------------------+
+6 rows in set (0.00 sec)
+
+```
+
+### 选一个数据库
+```sql
+mysql> use test2;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> 
+```
