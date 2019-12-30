@@ -58,6 +58,13 @@ mysql> show databases
 
 ```
 
+### 创建一个数据库
+```
+mysql> create database student;
+Query OK, 1 row affected (0.01 sec)
+
+```
+
 ### 选一个数据库
 ```sql
 mysql> use test2;
