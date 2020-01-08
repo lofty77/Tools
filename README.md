@@ -65,6 +65,7 @@
 - [python black 代码美化工具](https://github.com/psf/black)
 - [Google 编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
 - [MySQL](https://github.com/lofty77/Tools/blob/master/docs/mysql.md)
+- [python 构造SQL](https://github.com/lofty77/Tools/blob/master/docs/python_sql.md)
 
 ### Linux
 - [Linux 全集](https://github.com/jaywcjlove/linux-command)
