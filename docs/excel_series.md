@@ -1,7 +1,6 @@
 ## SERIES
-SERIES是生成图表系列的专用函数，它无法在单元格中使用，只能用在excel图表中，它的语法为：  
-
-- =SERIES（标题,显示在分类轴上的标志,数据源,系列顺序）
+SERIES是生成图表系列的专用函数，它**无法在单元格中使用，只能用在excel图表中，**  
+-  它的语法为：=SERIES（标题,显示在分类轴上的标志,数据源,系列顺序）
   
 ### 数据源
   
@@ -17,3 +16,7 @@ SERIES是生成图表系列的专用函数，它无法在单元格中使用，�
 - =SERIES(Sheet1!$C$1,Sheet1!$A$2:$A$6,Sheet1!$C$2:$C$6,1)
  
 - =SERIES(Sheet1!$B$1,Sheet1!$A$2:$A$6,Sheet1!$B$2:$B$6,2)
+
+### picture
+
+![pic](https://github.com/lofty77/Picture/blob/master/pic/excel_series.png)
