@@ -51,6 +51,7 @@
 
 ### Excel
 - [excel skill](https://github.com/lofty77/Tools/blob/master/docs/excel_note.md)
+- [excel series](https://github.com/lofty77/Tools/blob/master/docs/excel_series.md)
 
 ### Debug
 - [[Python]PySnooper](https://github.com/cool-RR/PySnooper/blob/master/README.md)
