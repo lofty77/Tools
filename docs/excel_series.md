@@ -13,4 +13,7 @@ SERIES是生成图表系列的专用函数，它无法在单元格中使用，�
 4月|  44| 66
 5月|  55| 77
 
-
+### 公式
+- =SERIES(Sheet1!$C$1,Sheet1!$A$2:$A$6,Sheet1!$C$2:$C$6,1)
+ 
+- =SERIES(Sheet1!$B$1,Sheet1!$A$2:$A$6,Sheet1!$B$2:$B$6,2)
