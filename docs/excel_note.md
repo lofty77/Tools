@@ -1,3 +1,7 @@
+### 基本技巧
+- [冻结窗口](https://baijiahao.baidu.com/s?id=1644350185150069089&wfr=spider&for=pc)
+
+
 ### setting
 - 要开启错误校验
 file- option- formuals- enable background error checking ， 勾上
