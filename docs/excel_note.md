@@ -1,5 +1,5 @@
 ### 基本技巧
-- [冻结窗口](https://baijiahao.baidu.com/s?id=1644350185150069089&wfr=spider&for=pc)
+- [冻结窗口,让表头固定不动](https://baijiahao.baidu.com/s?id=1644350185150069089&wfr=spider&for=pc)
 
 
 ### setting
