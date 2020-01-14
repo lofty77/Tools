@@ -1,5 +1,11 @@
-### 基本技巧
+## 基本技巧
+
+### 冻结窗口
 - [冻结窗口,让表头固定不动](https://baijiahao.baidu.com/s?id=1644350185150069089&wfr=spider&for=pc)
+
+### 添加批注
+- 点击表格-- 右击-- 添加批注
+- 如果要让批注一直显示，选择 show comments
 
 
 ### setting
