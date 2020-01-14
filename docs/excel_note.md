@@ -1,12 +1,14 @@
 ## 基本技巧
 
-### 冻结窗口
+#### 冻结窗口
 - [冻结窗口,让表头固定不动](https://baijiahao.baidu.com/s?id=1644350185150069089&wfr=spider&for=pc)
 
-### 添加批注
+#### 添加批注
 - 点击表格-- 右击-- 添加批注
 - 如果要让批注一直显示，选择 show comments
 
+#### Excel表格中大于某一数值的显示为一个颜色
+- [Excel表格中大于某一数值的显示为一个颜色](https://jingyan.baidu.com/article/a65957f4de46e424e67f9bb7.html)
 
 ### setting
 - 要开启错误校验
