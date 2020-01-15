@@ -1,4 +1,9 @@
 ## linux
+
+### MySQL 在线练习
+https://sqlzoo.net/wiki/SQL_Tutorial/zh
+
+
 ### 使用apt 安装MySQL
 
 删除MySQL前，先删除/var/lib/mysql和/etc/mysql，如下代码所示：
