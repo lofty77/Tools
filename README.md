@@ -75,6 +75,8 @@
 - [Linux 命令](https://github.com/lofty77/Tools/blob/master/docs/linux_command.md)
 - [Linux Shell](http://me.52fhy.com/shell-book/)
 - [Linux Shell check Tool](https://github.com/koalaman/shellcheck)
+- [多CPU，多核，多进程，多线程](https://github.com/lofty77/Tools/blob/master/docs/linux_process_thread.md)
+
 
 ### Learn
 - [ModuleNotFoundError](https://github.com/lofty77/Tools/blob/master/docs/Error_ModuleNotFoundError.md)
