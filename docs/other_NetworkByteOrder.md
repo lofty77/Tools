@@ -1,1 +1,6 @@
-https://blog.csdn.net/anningzte/article/details/52125665
+https://blog.csdn.net/anningzte/article/details/52125665  
+大端小端问题总结
+- 大端小端的前提是多字节序存储（例如int类型，对于32位机器，int 是4个字节）
+- 只要记住小端就行，大端就是小端的反向
+- 小端 ： 数据的低位（以字节为单位）存放在内存的低位
+- 大端 ： 数据的低位存放在内存的高位
