@@ -1,3 +1,4 @@
+https://blog.csdn.net/anningzte/article/details/52125665  
 
 大端小端问题总结
 - 大端小端的前提是多字节序存储（例如int类型，对于32位机器，int 是4个字节）
