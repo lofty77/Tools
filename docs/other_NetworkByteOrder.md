@@ -1,7 +1,4 @@
-https://blog.csdn	int i = 0x12345445;     //四字节
-    char *p = (char *)&i;   //将整型变量地址  的  首地址（第一个字节，即低地址）赋给指针p
- 
-    printf("%x %x\n",*p,*(p+1));.net/anningzte/article/details/52125665  
+
 大端小端问题总结
 - 大端小端的前提是多字节序存储（例如int类型，对于32位机器，int 是4个字节）
 - 只要记住小端就行，大端就是小端的反向
