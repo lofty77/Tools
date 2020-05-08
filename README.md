@@ -38,7 +38,9 @@
 - [objgraph](https://github.com/lofty77/Tools/blob/master/docs/python_objgraph.md)
 
 ### C/C++
-- [Astyle](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
+- [Astyle-代码美化工具](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
+- [[C/C++]Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
+- [[C/C++]CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 
 ### CMAKE
 - [单个源文件](https://github.com/lofty77/Tools/blob/master/docs/cmake_01.md)
@@ -55,8 +57,6 @@
 
 ### Debug
 - [[Python]PySnooper](https://github.com/cool-RR/PySnooper/blob/master/README.md)
-- [[C/C++]Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
-- [[C/C++]CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 
 ### Tools
 - [Selenium](https://github.com/lofty77/Tools/blob/master/docs/selenium.md)
