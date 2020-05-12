@@ -1,4 +1,13 @@
+## 说明
+[astyle 网站](http://astyle.sourceforge.net/astyle.html)
+
+
 >  Artistic Style is a source code indenter, formatter, and beautifier for the C, C++, C++/CLI, Objective‑C, C# and Java programming languages.
+
+## Quick Start
+If you have never used Artistic Style, there are several of ways to get started.
+One is to run it with no options at all. This will use the default brace style, 4 spaces per indent, and no formatting changes. This will break the braces for one line blocks and will break one line statements. To change this, use the option keep-one-line-blocks and/or keep-one-line-statements described in the Formatting Options section.
+> 最常用的也就是一个Tab键变成4个空格的case
 
 ## Usage
 `astyle [OPTIONS] File1 File2 File3 [...]`  
