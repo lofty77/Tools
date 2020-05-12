@@ -39,8 +39,8 @@
 
 ### C/C++
 - [Astyle-代码美化工具](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
-- [[C/C++]Valgrind[Memcheck]](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
-- [[C/C++]CppCheck](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
+- [Valgrind-Memchec-内存泄漏检测](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
+- [CppCheck-代码检查](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 
 ### CMAKE
 - [单个源文件](https://github.com/lofty77/Tools/blob/master/docs/cmake_01.md)
