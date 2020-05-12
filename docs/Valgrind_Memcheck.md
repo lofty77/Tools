@@ -87,26 +87,25 @@ int main()
 }
 
 ```
-
-> liang.liang@ubuntu:~/code/test$ valgrind  ./dumpTest
-==25319== Memcheck, a memory error detector
-==25319== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
-==25319== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
-==25319== Command: ./dumpTest
-==25319== 
-==25319== Invalid free() / delete / delete[] / realloc()
-==25319==    at 0x4C2EDEB: free (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
-==25319==    by 0x400541: dumpCrash (dumpTest.c:7)
-==25319==    by 0x400552: main (dumpTest.c:11)
-==25319==  Address 0x4005e4 is in a r-x mapped file /home/liang.liang/code/test/dumpTest segment
-==25319== 
-==25319== 
-==25319== HEAP SUMMARY:
-==25319==     in use at exit: 0 bytes in 0 blocks
-==25319==   total heap usage: 0 allocs, 1 frees, 0 bytes allocated
-==25319== 
-==25319== All heap blocks were freed -- no leaks are possible
-==25319== 
-==25319== For counts of detected and suppressed errors, rerun with: -v
-==25319== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
+> liang.liang@ubuntu:~/code/test$ valgrind  ./dumpTest  
+==25319== Memcheck, a memory error detector  
+==25319== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.  
+==25319== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info  
+==25319== Command: ./dumpTest  
+==25319==   
+==25319== Invalid free() / delete / delete[] / realloc()  
+==25319==    at 0x4C2EDEB: free (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)  
+==25319==    by 0x400541: dumpCrash (dumpTest.c:7)  
+==25319==    by 0x400552: main (dumpTest.c:11)  
+==25319==  Address 0x4005e4 is in a r-x mapped file /home/liang.liang/code/test/dumpTest segment  
+==25319==   
+==25319==   
+==25319== HEAP SUMMARY:  
+==25319==     in use at exit: 0 bytes in 0 blocks  
+==25319==   total heap usage: 0 allocs, 1 frees, 0 bytes allocated  
+==25319==   
+==25319== All heap blocks were freed -- no leaks are possible  
+==25319==   
+==25319== For counts of detected and suppressed errors, rerun with: -v  
+==25319== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)  
 
