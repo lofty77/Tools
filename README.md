@@ -39,7 +39,7 @@
 
 ### C/C++
 - [Astyle-代码美化工具](https://github.com/lofty77/Tools/blob/master/docs/Astyle.md)
-- [Valgrind-Memchec-内存泄漏检测](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
+- [Valgrind-Memcheck-内存泄漏检测](https://github.com/lofty77/Tools/blob/master/docs/Valgrind_Memcheck.md)
 - [CppCheck-代码检查](https://github.com/lofty77/Tools/blob/master/docs/Cppcheck.md)
 
 ### CMAKE
