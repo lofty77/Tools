@@ -71,6 +71,7 @@
 - [JSON Server]
 - [npm]
 - [Node.js]
+- [requests]
 
 ### Linux
 - [Linux 全集](https://github.com/jaywcjlove/linux-command)
