@@ -72,6 +72,7 @@
 - [npm]
 - [Node.js]
 - [requests]
+- [Postman](https://github.com/postmanlabs/postman-app-support)
 
 ### Linux
 - [Linux 全集](https://github.com/jaywcjlove/linux-command)
