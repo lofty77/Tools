@@ -109,3 +109,6 @@
 
 ### 计算机网络
 - [三次握手四次挥手]
+
+### tool for study
+- [RabbitMQ]
